@@ -42,15 +42,4 @@ plt.title('Exp vs Salary [Test Set]')
 plt.xlabel('Exp')
 plt.ylabel('Salary')
 plt.show()
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
+
