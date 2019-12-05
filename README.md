@@ -1,4 +1,4 @@
 # Machine-Learning
-Machine Learning Models in Python and R
+Machine Learning Practice Models in Python and R
 
 
